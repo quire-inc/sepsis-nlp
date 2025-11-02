@@ -1,0 +1,11 @@
+(?:No evidence (?:for|of)(?: sepsis or)*|not demonstrating evidence (?:for|of)(?: sepsis or)*|not have (?:any )*evidence (?:for|of)(?: sepsis or)*|no signs (?:for|of)(?: sepsis or)*|without|without severe sepsis or|not have signs (?:for|of)|no|no -|aware that normally with|not (?:have|clinically)|not in|possibly|likely|possible|poss|suspect|suspected|unspecified whether|risk (?:for|of)|The concern was(?: the patient is in)*|no concern (?:at|@) this time for|admitted again for|does not meet|last [a-z]+ for |likely to be) (?:septic shock)
+septic shock (?:is )*not (?:clinically )*eve*ident
+Septic shock (?:criteria )*(?:was|is )*not (?:met|present)
+septic shock \(CMS\/HCC\) \(*[0-9]{1,2}\/[0-9]{2,4}
+septic shock in the past
+hospitalization [0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2,4} for .*(?:septic shock).*?\.  
+septic shock confirmed\? no
+septic shock due to (?:urinary tract infection|uti|pneumonia|pna|infection|cap)* [0-9]*\/[0-9]*\/[0-9]
+medical (?:history|hx):.+?septic shock.+?surgical (?:history|hx):
+for which hospitalization is considered (?:[a-z]|[, ])+septic shock
+(?:not a candidate for early goal |Less likely ).*?(?:severe sepsis\/septic shock|septic shock\/severe sepsis|cardiogenic\/septic shock|Concern for ([a-z]+ )*septic shock).*?\.
